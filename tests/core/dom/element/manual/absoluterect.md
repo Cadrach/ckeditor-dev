@@ -8,13 +8,9 @@ Use scrollbar to change scroll position of the browser and the editor. You shoul
 
 You should observe changing properties on scroll:
 
-Vertical browser scroll: y
+Vertical scroll: top, bottom, y
 
-Horizontal browser scroll: x
-
-Vertical editor scroll: top, bottom, y
-
-Horizontal editor scroll: left, right, x
+Horizontal scroll: left, right, x
 
 ## Unexpected
 
