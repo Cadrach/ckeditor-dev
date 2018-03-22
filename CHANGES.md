@@ -5,7 +5,7 @@
 
 API Changes:
 
-* [#1742](https://github.com/ckeditor/ckeditor-dev/issues/1724): Added [`getAbsoluteClientRect`](https://docs.ckeditor.com/ckeditor4/latest/api/CKEDITOR_dom_element.html#method-getAbsoluteClientRect) function allowing to calculate an element absolute bounding rectangle includes browser's and editor's scroll position.
+* [#1742](https://github.com/ckeditor/ckeditor-dev/issues/1724): Added option to [`getClientRect`](https://docs.ckeditor.com/ckeditor4/latest/api/CKEDITOR_dom_element.html#method-getClientRect) function allowing to calculate an element absolute bounding rectangle including browser's and editor's scroll position.
 
 ## CKEditor 4.9
 
